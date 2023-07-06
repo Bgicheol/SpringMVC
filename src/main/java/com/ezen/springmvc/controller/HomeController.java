@@ -1,4 +1,4 @@
-package com.ezen.springmvc;
+package com.ezen.springmvc.controller;
 
 import java.util.Date;
 import java.util.Locale;
